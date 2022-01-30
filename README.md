@@ -13,5 +13,5 @@ Topics covered:
 9. Graphs
 10.Dynamic Programming
 
-My Leetcode Profile : https://leetcode.com/saransh_sharma/
+Leetcode Profile : https://leetcode.com/saransh_sharma/
 Linkedin : https://www.linkedin.com/in/saransh0/
