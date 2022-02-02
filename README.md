@@ -5,8 +5,8 @@ Topics covered:
 1. Arrays
 2. Searching
 3. Sorting
-4. Strings
-5. Stack & Queue
+4. Stack & Queue
+5. Strings
 6. Link List
 7. Trees
 8. Graphs
