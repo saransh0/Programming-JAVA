@@ -6,7 +6,7 @@ Topics covered:
 2. Searching
 3. Sorting
 4. Stack & Queue
-5. Strings
+5. String
 6. Link List
 7. Trees
 8. Graphs
